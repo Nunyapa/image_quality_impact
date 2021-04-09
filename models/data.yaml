@@ -1,5 +1,0 @@
-train: ../../dataset/train2014/images/
-val: ../../dataset/val2014/images/
-
-nc: 3
-names: ['person', 'car', 'pizza']
